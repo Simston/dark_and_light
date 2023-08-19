@@ -56,6 +56,7 @@ if (currentTheme) {
         toggleSwitch.checked = true;
         darkMode();
     } else {
+
         lightMode();
     }
 }
