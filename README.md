@@ -1,1 +1,1 @@
-# dark_and_light
+# Dark and Light Mode
